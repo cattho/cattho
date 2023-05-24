@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/unQ3IJU2RG7DO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/unQ3IJU2RG7DO">via GIPHY</a></p>
-
 <!--
 **cattho/cattho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
