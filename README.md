@@ -56,9 +56,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-
 <div align="center">
             <a href="https://bmc.link/jusegiraldA" target="_blank" style="display: inline-block;">
                 <img
