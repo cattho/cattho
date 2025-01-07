@@ -7,8 +7,8 @@
 - 💻 I am a front-end Developer of web.
 - 🌎 I am from Ibague - Colombia.
 - 🐱‍💻 I love cats and video games.
-- 🤓 I like to study and learn new things.
-- 🌱 I’m currently learning Nodejs, Next.js and TypeScript.
+- 🧓 I like to study and learn new things.
+- 🌱 I’m currently working on projects using Node.js, Next.js, and TypeScript.
 - 🤸🏻‍♂️ I'm looking for a job
 
 ## Tech & Tools Preference
@@ -67,3 +67,4 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
